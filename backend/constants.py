@@ -1,0 +1,28 @@
+teams = ["FC Barcelona","Juventus","Paris Saint-Germain","Manchester United","Manchester City","Chelsea","Real Madrid","Atlético Madrid","FC Bayern München","Tottenham Hotspur","Liverpool","Napoli","Arsenal","Milan","Inter","Lazio","Borussia Dortmund","Vissel Kobe","Olympique Lyonnais","Roma","Valencia CF","Guangzhou Evergrande Taobao FC","FC Porto","FC Schalke 04","Beşiktaş JK","LA Galaxy","Sporting CP","Real Betis","Olympique de Marseille","RC Celta","Bayer 04 Leverkusen","Real Sociedad","Villarreal CF","Sevilla FC","SL Benfica","AS Saint-Étienne","AS Monaco","Leicester City","Atalanta","Grêmio","Atlético Mineiro","RB Leipzig","Ajax","Dalian YiFang FC","Everton","West Ham United","1. FC Köln","TSG 1899 Hoffenheim","Shanghai SIPG FC","OGC Nice","Al Nassr","Wolverhampton Wanderers","Borussia Mönchengladbach","Hertha BSC","SV Werder Bremen","Cruzeiro","Athletic Club de Bilbao","Torino","Medipol Başakşehir FK","Beijing Sinobo Guoan FC","Crystal Palace","PFC CSKA Moscow","VfL Wolfsburg","Shakhtar Donetsk","Toronto FC","Lokomotiv Moscow","Sassuolo","New York City FC","Fluminense","PSV","Levante UD","Fulham","Watford","Atlanta United","Montpellier HSC","Galatasaray SK","Fenerbahçe SK","SD Eibar","Los Angeles FC","Sampdoria","Al Hilal","VfB Stuttgart","SC Braga","River Plate","Deportivo Alavés","","Eintracht Frankfurt","Girona FC","Guangzhou R & FFC","Burnley","Stoke City","Southampton","Tianjin Quanjian FC","Getafe CF","Beijing Renhe FC","Montreal Impact","Chievo Verona","Genoa","Portland Timbers","Tigres U.A.N.L.","RCD Espanyol"]
+
+attributes = [
+              "Crossing",
+              "Finishing",
+              "HeadingAccuracy",
+              "ShortPassing",
+              "Volleys",
+              "Dribbling",
+              "Curve",
+              "FKAccuracy",
+              "LongPassing",
+              "BallControl",
+              "Acceleration",
+              "SprintSpeed",
+              "Agility",
+              "Reactions",
+              "Balance",
+              "ShotPower",
+              "Jumping",
+              "Stamina",
+              "Strength",
+              "LongShots",
+              "Aggression",
+              "Interceptions",
+              "Positioning",
+              "Vision",
+              "Penalties"]
